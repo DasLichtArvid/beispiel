@@ -1,5 +1,5 @@
-public class a {
-    public void ias () {
+public class datei {
+    public void asd {
         int i = 0;
     }
 }
